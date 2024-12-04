@@ -1,4 +1,4 @@
-# EnkFi_7.5"_Hardware
+# EnkFi 7.5" Hardware
 
 <img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Main_Banner_3.png?v=1729493200" />
 
