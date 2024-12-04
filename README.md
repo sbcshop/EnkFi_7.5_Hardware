@@ -1,16 +1,15 @@
-# EnkFi_7.5_Hardware
+# EnkFi_7.5"_Hardware
 
 <img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Main_Banner_3.png?v=1729493200" />
 
 The EnkFi series, **powered** by the **ESP32 S3 WROOM**, offers versatile **e-paper display** options in **[2.9”](https://shop.sb-components.co.uk/products/enkfi-epaper-display-board-based-on-esp32-s3-wroom-1?variant=41443707846739), [4.2”](https://shop.sb-components.co.uk/products/enkfi-epaper-display-board-based-on-esp32-s3-wroom-1?variant=41443707879507), [5.83”](https://shop.sb-components.co.uk/products/enkfi-epaper-display-board-based-on-esp32-s3-wroom-1?variant=41443707912275), and [7.5”](https://shop.sb-components.co.uk/products/enkfi-epaper-display-board-based-on-esp32-s3-wroom-1?variant=41443707945043)** sizes, catering to diverse application needs. These displays feature a wide viewing angle of over 170 degrees and utilize bistable technology, ensuring no power consumption when the screen is not refreshed, making them highly energy-efficient. The black-white-red color scheme protects the eyes by eliminating blue light and radiation. With built-in WiFi and BLE capabilities, the EnkFi series is ideal for IoT-based projects, providing robust connectivity.
 
-This Github provides hardware design files for EnkFi 7.5 E-Paper.
+This Github provides hardware design files for EnkFi 7.5" E-Paper.
 
 ### Repository Contents:
-  - [/Design Data](https://github.com/sbcshop/Serial_Servo_ESP32_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
-  - [/Mechanical Data](https://github.com/sbcshop/Serial_Servo_ESP32_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
-  - [Getting Started Guide](https://github.com/sbcshop/Serial_Servo_ESP32_Software) - This repo contains EnkFi 7.5 E-Paper Getting Started instructions.
-
+  - [/Design Data](https://github.com/sbcshop/EnkFi_7.5_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mechanical Data](https://github.com/sbcshop/EnkFi_7.5_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [Getting Started Guide](https://github.com/sbcshop/EnkFi_7.5_Software) - This repo contains EnkFi 7.5" E-Paper Getting Started instructions.
 
 ## Related Products  
   
